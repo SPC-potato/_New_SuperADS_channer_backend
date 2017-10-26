@@ -1,0 +1,1 @@
+var MyLibrary=webpackJsonpMyLibrary([1],{22:function(r,a,i){"use strict"}},[22]);
